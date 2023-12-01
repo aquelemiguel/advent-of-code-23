@@ -1,0 +1,21 @@
+{
+  "name": "advent-of-code-23",
+  "author": {
+    "name": "Miguel Mano",
+    "email": "aquelemiguel@gmail.com",
+    "url": "https://github.com/aquelemiguel"
+  },
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.13.1",
+    "@typescript-eslint/parser": "^6.13.1",
+    "bun-types": "latest",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.1.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
